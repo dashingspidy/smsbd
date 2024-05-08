@@ -7,7 +7,7 @@ require_relative "smsbd/version"
 
 module Smsbd
   BASE_URI = 'https://api.sms.net.bd/sendsms'
-  API_KEY = 'AmpgC1Fh4VC9TuiboV8Czu0vD6bxffMuy13bNr'
+  API_KEY = ENV["sms_bd_api_key"]
   HEADERS = { 'Content-Type': 'application/json'}
 
   class Sms
