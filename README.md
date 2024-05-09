@@ -1,7 +1,7 @@
 # SMS.NET.BD SMS gem for ruby
 
 SMS Package for ruby. An API warpper for sms.net.bd sms provider.
-
+[![Gem Version](https://badge.fury.io/rb/smsbd.svg)](https://badge.fury.io/rb/smsbd)
 
 ## Installation
 
